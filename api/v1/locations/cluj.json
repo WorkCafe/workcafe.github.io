@@ -28,8 +28,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [23.589438, 46.777822]
-      },
-      {
+      }
+    },
+    {
       "type": "Feature",
       "properties": {
         "id": "corso",
