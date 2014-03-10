@@ -8,13 +8,13 @@ Don't edit those files.
 
 ## Contributions
 
-Edit the files inside the `api` repository and send a pull request.
+Edit the files inside the [`api` directory](api) and send a pull request.
 
 The current version is `v1`.
 
 ### Adding your city
 
-Edit the `api/v1/cities.json` file.
+Edit the [`api/v1/cities.json`](api/v1/cities.json) file.
 
 ### Adding a new venue
 
