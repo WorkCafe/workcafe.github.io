@@ -57,6 +57,34 @@
         "type": "Point",
         "coordinates": [23.588933, 46.769578]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yolka",
+        "title": "YOLKA",
+        "description": "https://www.facebook.com/baryolka",
+        "address": "21th Unirii Square",
+        "opens_at": 10,
+        "closes_at": 2,
+        "special_weekend_hours": false,
+        "has_food": false,
+        "smoking_allowed": true,
+        "wifi_networks": 1,
+        "wifi_password": "bradbrad",
+        "loud_music": false,
+        "comfy_chairs": true,
+        "has_desks": true,
+        "has_toilet": true,
+        "bike_parking": true,
+        "car_parking": true,
+        "hosts_events": false,
+        "big_windows": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5888485, 46.7705461]
+      }
     }
   ]
 }
