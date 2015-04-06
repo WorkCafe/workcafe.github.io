@@ -1,7 +1,7 @@
 WorkCafe.in
 ===========
 
-This repository hosts the [workcafe.in](http://workcafe.in) website.
+This repository hosts the [workcafe.github.io](http://workcafe.github.io) website.
 
 The JavaScript, CSS and HTML files are the result of the [WorkCafe/app](https://github.com/WorkCafe/app) build.
 Don't edit those files.
