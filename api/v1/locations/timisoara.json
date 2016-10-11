@@ -1,0 +1,32 @@
+{
+  "id": "timisoara",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zai",
+        "title": "Zai Après Café",
+        "description": "https://www.facebook.com/zai-apr%C3%A8s-caf%C3%A9-130022453740838/",
+        "address": "5, Florimund Mercy st.",
+        "opens_at": 8,
+        "closes_at": 23,
+        "special_weekend_hours": false,
+        "has_food": true,
+        "smoking_allowed": false,
+        "wifi_networks": 1,
+        "wifi_password": "zaiaprescafe",
+        "loud_music": false,
+        "comfy_chairs": true,
+        "has_desks": false,
+        "has_toilet": true,
+        "bike_parking": false,
+        "car_parking": false,
+        "hosts_events": true,
+        "big_windows": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.75673399999999, 21.228706999999986]
+      }
+    },
