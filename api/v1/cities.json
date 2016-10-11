@@ -5,6 +5,18 @@
       "city": "Cluj-Napoca",
       "country": "România",
       "continent": "EU"
+    },
+    {
+      "id": "iasi",
+      "city": "Iasi",
+      "country": "România",
+      "continent": "EU"
+    },
+    {
+      "id": "timisoara",
+      "city": "timisoara",
+      "country": "România",
+      "continent": "EU"
     }
   ]
 }
